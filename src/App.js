@@ -7,7 +7,7 @@ import Timer from "./pages/timer/Timer";
 import Login from "./pages/auth/Login";
 import ProductList from "./pages/productList/ProductList";
 import LayoutAuth from "./LayoutAuth";
-import { createTheme, ThemeProvider } from '@mui/core';
+import { createTheme, ThemeProvider } from '@mui/material';
 
 const theme = createTheme({
   palette: {
