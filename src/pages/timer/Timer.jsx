@@ -1,7 +1,7 @@
 import {Box, Typography, CardMedia, CardContent, Modal, Card, List, ListItem, ListItemText, TextField} from '@mui/material';
 import TableHistory from "../../components/table/TableHistory";
 import Button from '@material-ui/core/Button';
-import Grid from '@mui/core/Grid';
+import Grid from '@mui/material/Grid';
 import * as React from 'react';
 export default function Timer() {
   const [open, setOpen] = React.useState(false);
