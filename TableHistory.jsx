@@ -1,4 +1,4 @@
-import { DataGrid } from "@mui/x-data-grid";
+import { DataGrid } from "@mui/@mui/icons-material";
 import { DeleteOutline,Edit } from "@mui/icons-material";
 import { historyRows } from "../../dummyData";
 import { Link } from "react-router-dom";
